@@ -145,12 +145,10 @@
     </td>
     <td>
         <h3>Microsoft Azure</h3>
-        <a href="LINK DA ATIVIDADE"><img src="ENDERECO DA IMAGEM" width="250px"></a>
+        <a href="https://prezi.com/view/hbpytLM3k4si3hWxWPgR/?referral_token=Pz5zXPlnB3FN"><img src="https://www.devopsschool.com/blog/wp-content/uploads/2023/12/image-182-1024x577.png" width="250px"></a>
         <h3>Equipe:</h3>
-        <li><a href="LINKEDIN">NOME</a></li>
-        <li><a href="LINKEDIN">NOME</a></li>
-        <li><a href="LINKEDIN">NOME</a></li>
-        <li><a href="LINKEDIN">NOME</a></li>       
+        <li><a href="https://www.linkedin.com/in/igorbarbosaws/">Igor Barbosa</a></li>
+        <li><a href="https://www.linkedin.com/in/danilo-henrique-7a4449382/">Danilo Henrique</a></li>       
     </td>
     <td>
         <h2>Roadmap Database</h2>
