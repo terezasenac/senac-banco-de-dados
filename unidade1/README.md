@@ -82,12 +82,12 @@
     </td>
     <td>
         <h3>Firebase</h3>
-        <a href="LINK DA ATIVIDADE"><img src="ENDERECO DA IMAGEM" width="250px"></a>
+        <a href="https://prezi.com/view/jOzgKPMnLG6Udfp6XDVy/?referral_token=cm7FMblnB3FN"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzXyrUl3yj5mCYEoRakcuV8FHAt4YxECV-Pw&s" width="250px"></a>
         <h3>Equipe:</h3>
-        <li><a href="LINKEDIN">NOME</a></li>
-        <li><a href="LINKEDIN">NOME</a></li>
-        <li><a href="LINKEDIN">NOME</a></li>
-        <li><a href="LINKEDIN">NOME</a></li>       
+        <li><a href="LINKEDIN">NOME</a>GABRIEL ROBERTO</li>
+        <li><a href="LINKEDIN">NOME</a>IBSON GOMES</li>
+        <li><a href="www.linkedin.com/in/jpss">JEAN PHILLIP</a></li>
+        <li><a href="LINKEDIN">NOME</a>WICTOR EDUARDO</li>       
     </td>
     <td>
         <h3>MySQL</h3>
