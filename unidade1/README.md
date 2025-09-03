@@ -10,12 +10,12 @@
   <tr>
     <td>
         <h3>SQL Server</h3>
-        <a href="LINK DA ATIVIDADE"><img src="ENDERECO DA IMAGEM" width="250px"></a>
+        <a href="https://www.linkedin.com/in/felipe-mitchell-campos-ramos-164324184/"><img src="https://www.techasoft.com/debug/img/sqlserver.png" width="250px"></a>
         <h3>Equipe:</h3>
-        <li><a href="LINKEDIN">NOME</a></li>
-        <li><a href="LINKEDIN">NOME</a></li>
-        <li><a href="LINKEDIN">NOME</a></li>
-        <li><a href="LINKEDIN">NOME</a></li>       
+        <li><a href="LINKEDIN">Evencio Neto</a></li>
+        <li><a href="https://www.linkedin.com/in/felipe-mitchell-campos-ramos-164324184/">Felipe Mitchell Campos</a></li>
+        <li><a href="https://www.linkedin.com/in/jo%C3%A3o-santino-0123a1382/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">João Victor Santino</a></li>
+        <tr>      
     </td>
     <td>
         <h3>SQLite</h3>
