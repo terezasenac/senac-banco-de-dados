@@ -73,12 +73,12 @@
     </td>
     <td>
         <h3>Elasticsearch</h3>
-        <a href="LINK DA ATIVIDADE"><img src="ENDERECO DA IMAGEM" width="250px"></a>
+        <a href="https://miro.com/welcomeonboard/d0MzcWFmSzFjQUZCV3VXT252RnRBaGVNN0dGNDJhdmNucUVnUUVPRGI0NDVrRk9sQllnaVJXQUt5UlYzNHJhMnV2b2pmc21TQlkvOU1Nd1pDUmE1MHBuQ3NnNTliSDFLTXB4K1dLb3JtbHN0VjFOQXdramxnZGVsUkRZRDk3YXZzVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=875022100748"><img src="https://miro.medium.com/0*tCuiG0bJQm-yOBKq.png" width="250px"></a>
         <h3>Equipe:</h3>
-        <li><a href="LINKEDIN">NOME</a></li>
-        <li><a href="LINKEDIN">NOME</a></li>
-        <li><a href="LINKEDIN">NOME</a></li>
-        <li><a href="LINKEDIN">NOME</a></li>       
+        <li><a href="https://www.linkedin.com/in/renata-oliveira-545081195?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)">RENATA OLIVEIRA</a></li>
+        <li><a href="https://www.linkedin.com/in/filipeara%C3%BAjo?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">FILIPE ARAUJO</a></li>
+        <li><a href="https://www.linkedin.com/in/rodrigo-cesar-41a69817a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">RODRIGO CESAR</a></li>
+            
     </td>
     <td>
         <h3>Firebase</h3>
