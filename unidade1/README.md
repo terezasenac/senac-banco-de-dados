@@ -50,8 +50,7 @@
         <h3>Equipe:</h3>
         <li><a href="https://www.linkedin.com/in/allany-dias-124377292/">Allany Dias</a></li>
         <li><a href="https://www.linkedin.com/in/guilherme-gon%C3%A7alves-4a6873365/">Guilherme GonçalvesE</a></li>
-        <li><a href="https://www.linkedin.com/in/felipe-bento-50552a273/">José Luis</a></li>
-        <li><a href="LINKEDIN">NOME</a></li>       
+        <li><a href="https://www.linkedin.com/in/felipe-bento-50552a273/">José Luis</a></li>      
     </td>
     <td>
         <h3>SQL Server</h3>
