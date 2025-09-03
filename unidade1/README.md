@@ -48,9 +48,9 @@
         <h2>Oracle</h2>
         <a href="LINK DA ATIVIDADE"><img src="https://m.media-amazon.com/images/I/41QodfboFdL.png" width="250px"></a>
         <h3>Equipe:</h3>
-        <li><a href="LINKEDIN">Allany Dias</a></li>
-        <li><a href="LINKEDIN">Guilherme GonçalvesE</a></li>
-        <li><a href="LINKEDIN">José Luis</a></li>
+        <li><a href="https://www.linkedin.com/in/allany-dias-124377292/">Allany Dias</a></li>
+        <li><a href="https://www.linkedin.com/in/guilherme-gon%C3%A7alves-4a6873365/">Guilherme GonçalvesE</a></li>
+        <li><a href="https://www.linkedin.com/in/felipe-bento-50552a273/">José Luis</a></li>
         <li><a href="LINKEDIN">NOME</a></li>       
     </td>
     <td>
