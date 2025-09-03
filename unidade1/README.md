@@ -46,11 +46,11 @@
     </td>
     <td>
         <h2>Oracle</h2>
-        <a href="LINK DA ATIVIDADE"><img src="ENDERECO DA IMAGEM" width="250px"></a>
+        <a href="LINK DA ATIVIDADE"><img src="https://m.media-amazon.com/images/I/41QodfboFdL.png" width="250px"></a>
         <h3>Equipe:</h3>
-        <li><a href="LINKEDIN">NOME</a></li>
-        <li><a href="LINKEDIN">NOME</a></li>
-        <li><a href="LINKEDIN">NOME</a></li>
+        <li><a href="LINKEDIN">Allany Dias</a></li>
+        <li><a href="LINKEDIN">Guilherme GonçalvesE</a></li>
+        <li><a href="LINKEDIN">José Luis</a></li>
         <li><a href="LINKEDIN">NOME</a></li>       
     </td>
     <td>
