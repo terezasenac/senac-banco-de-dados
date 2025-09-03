@@ -37,11 +37,11 @@
     </td>
     <td>
         <h3>PostgreSQL</h3>
-        <a href="LINK DA ATIVIDADE"><img src="ENDERECO DA IMAGEM" width="250px"></a>
+        <a href="https://github.com/etsvb/Trabalho-de-Banco-de-dados-PostgreSQL"><img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="250px"></a>
         <h3>Equipe:</h3>
-        <li><a href="LINKEDIN">NOME</a></li>
-        <li><a href="LINKEDIN">NOME</a></li>
-        <li><a href="LINKEDIN">NOME</a></li>
+        <li><a href="https://www.linkedin.com/in/ericha-barbosa-092473292/">Ericha Barbosa</a></li>
+        <li><a href="https://www.linkedin.com/in/fl%C3%A1vio-gon%C3%A7alves-961892208">Flávio Gonçalves</a></li>
+        <li><a href="https://www.linkedin.com/in/kennedy-de-lima-veras-48366b2b4/">Kennedy Veras</a></li>
         <li><a href="LINKEDIN">NOME</a></li>       
     </td>
     <td>
