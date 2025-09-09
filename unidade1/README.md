@@ -42,7 +42,7 @@ Olá! Estruture esta tabela markdown de forma otimizada e adequada para melhor v
     </td>
     <td>
       <h2>Oracle</h2>
-      <a href="LINK DA ATIVIDADE"><img src="https://m.media-amazon.com/images/I/41QodfboFdL.png" width="110px"></a>
+      <a href="https://github.com/guilhermewv/Projeto-de-Banco-de-dados-Oracle-Database"><img src="https://m.media-amazon.com/images/I/41QodfboFdL.png" width="110px"></a>
       <h3>Equipe:</h3>
       <li><a href="https://www.linkedin.com/in/allany-dias-124377292/">Allany Dias</a></li>
       <li><a href="https://www.linkedin.com/in/guilherme-gon%C3%A7alves-4a6873365/">Guilherme Gonçalves</a></li>
