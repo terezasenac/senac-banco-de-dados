@@ -62,12 +62,11 @@ Olá! Estruture esta tabela markdown de forma otimizada e adequada para melhor v
   <tr>
     <td>
       <h3>Amazon RDS</h3>
-      <a href="LINK DA ATIVIDADE"><img src="ENDERECO DA IMAGEM" width="250px"></a>
+      <a href="https://www.canva.com/design/DAGxmVaBCXU/v2I2pJRdcS3Ubf5P7tDXlg/edit?utm_content=DAGxmVaBCXU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><img src="https://i.ytimg.com/vi/jW84JhqNWUY/maxresdefault.jpg" width="250px"></a>
       <h3>Equipe:</h3>
-      <li><a href="LINKEDIN">NOME</a></li>
-      <li><a href="LINKEDIN">NOME</a></li>
-      <li><a href="LINKEDIN">NOME</a></li>
-      <li><a href="LINKEDIN">NOME</a></li>
+      <li><a href="https://www.linkedin.com/in/lorena-torres-720482239?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Lorena Torres</a></li>
+      <li><a href="https://www.linkedin.com/in/mariana-oliveira-da-silva-576928328/">Mariana Oliveira</a></li>
+      <li><a href="https://www.linkedin.com/in/mayara-marina-820449382?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Mayara Marina</a></li>
     </td>
     <td>
       <h3>Elasticsearch</h3>
