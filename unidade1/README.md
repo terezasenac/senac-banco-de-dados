@@ -50,7 +50,7 @@ Olá! Estruture esta tabela markdown de forma otimizada e adequada para melhor v
       <li><a href="https://www.linkedin.com/in/felipe-bento-50552a273/">José Luis</a></li>
     </td>
     <td>
-      <h3>SQL Server</h3>
+      <h3>SGDB</h3>
       <a href="LINK DA ATIVIDADE"><img src="ENDERECO DA IMAGEM" width="250px"></a>
       <h3>Equipe:</h3>
       <li><a href="LINKEDIN">NOME</a></li>
