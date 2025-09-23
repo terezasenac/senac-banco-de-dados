@@ -94,7 +94,7 @@ Olá! Estruture esta tabela markdown de forma otimizada e adequada para melhor v
     </td>
     <td>
       <h2>MariaDB</h2>
-      <a href="https://teams.microsoft.com/l/message/19:481c3f51-cbb5-40ce-bc8d-7e605d2aa212_77216b60-b2b8-448f-a4cd-1b8aae256855@unq.gbl.spaces/1757454665488?context=%7B%22contextType%22%3A%22chat%22%7D"> <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" width="110px">  </a>
+      <a href="https://www.canva.com/design/DAGxy5kmLQk/O5HF3evMYDbvkygLxd-xfg/edit?utm_content=DAGxy5kmLQk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" width="110px">  </a>
       <h3>Equipe:</h3>
       <li><a href="https://br.linkedin.com/in/ivan-roberto-gomes-alves-dos-santos-254453382">Ivan Roberto</a></li>
       <li><a href="https://www.linkedin.com/in/pedro-lima-3013b4382/">Pedro Roberto</a></li>
