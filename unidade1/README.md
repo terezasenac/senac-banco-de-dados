@@ -101,12 +101,12 @@ Olá! Estruture esta tabela markdown de forma otimizada e adequada para melhor v
     </td>
     <td>
       <h3>Redis</h3>
-      <a href="LINK DA ATIVIDADE"><img src="ENDERECO DA IMAGEM" width="250px"></a>
+      <a href="https://www.canva.com/design/DAGx24qhTFQ/qRe-VOojMorHm6SfDu57Hw/edit?utm_content=DAGx24qhTFQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD-ovIo4YPKB-qraRsPtFyeJcZTjMhpd2ABZ6biRZho0H9bGS-NlY3HNw2guUH_I7Lucs&usqp=CAU" width="250px"></a>
       <h3>Equipe:</h3>
-      <li><a href="LINKEDIN">NOME</a></li>
-      <li><a href="LINKEDIN">NOME</a></li>
-      <li><a href="LINKEDIN">NOME</a></li>
-      <li><a href="LINKEDIN">NOME</a></li>
+      <li><a href="https://www.linkedin.com/in/allana-patricia-5253ab382?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Allana Patricia</a></li>
+      <li><a href="LINKEDIN">Adely Braz</a></li>
+      <li><a href="LINKEDIN">Luís Bezerra</a></li>
+      <li><a href="LINKEDIN">Estevão</a></li>
     </td>
   </tr>
   <tr>
